@@ -1,148 +1,148 @@
 [Adblock Plus 2.0]
-! Title: NetDisk AdFilters
-! Expires: 12 hours
-! Version: 201805242235
-! Last Modified: 2018��05��24�� 22:35
-! Homepage: http://www.qiuquan.cc/
+！标题：NetDisk AdFilters
+！到期时间：12小时
+！版本：201805242235
+！最后修改：2018年05月24日22:35
+！主页：http：//www.qiuquan.cc/
 
-!�������������ˡ������̡����������̡����������̡�����ţ�̡�����678���̡����ؽ���ĸ��ֹ��
-jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(6)
-jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
-jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:nth-child(8)
-jkpan.cc###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
-jkpan.cc###fl_dir_box > DIV.hr:nth-child(9)
-jkpan.cc###r2 > DIV.clear:last-child
-jkpan.cc##DIV.foot_box:nth-child(12)
-jkpan.cc###fl_dir_box > DIV.file_item:nth-child(3) > DIV
-jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:last-child
-jkpan.cc###fl_dir_box > DIV:nth-child(8) > LI.f14.txtgray
-jkpan.cc###fl_dir_box > DIV:nth-child(3) > DIV.clear:last-child
-jkpan.cc###fl_dir_box > DIV.hr:nth-child(7)
-jkpan.cc##DIV.foot_box:nth-child(15)
-jkpan.cc##DIV.layout_box.box_shadow:nth-child(4) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
-jkpan.cc###dl_box > DIV.pd5:last-child
-jkpan.cc###r1
-jkpan.cc##DIV.foot_box:nth-child(10)
-fxpan.com##DIV:nth-child(4) > DIV.page-footer:nth-child(13) > FOOTER.footer-nav:first-child
-fxpan.com##DIV:nth-child(4)
-fxpan.com###fl_dir_box > DIV.file_box > DIV:nth-child(2) > DIV.file_item.file_desc:first-child
-fxpan.com###fl_dir_box > DIV.file_box > DIV:nth-child(9) > LI.f14.txtgray
-fxpan.com###fl_dir_box > DIV.file_box > DIV.hr:nth-child(8)
-fxpan.com###bdshare > IMG:first-child
-fxpan.com###bdshare > A.shareCount:last-child
-fxpan.com##DIV.foot_box:nth-child(7)
-fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:nth-child(4) > A
-fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:nth-child(5) > A
-fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:last-child > A
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:nth-child(5)
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:nth-child(3) > DIV.file_item.f14.box_shadow:last-child
-fxpan.com###dl_box
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:last-child
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child > DIV:last-child
-fxpan.com###b1
-fxpan.com###addr_list > DIV.titdown
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child > H1:first-child
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child
-fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV.index213_box:last-child
-fxpan.com###container > DIV:nth-child(2) > DIV > DIV:first-child
-fxpan.com###container > DIV:nth-child(2) > DIV > DIV:last-child
-fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child > DIV
-fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child
-fxpan.com###f_tips
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV:first-child
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(7)
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(8)
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(10)
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(11)
-2pan.cc###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:first-child
-2pan.cc###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:nth-child(2)
-2pan.cc###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:last-child
-2pan.cc###fl_dir_box > DIV.hr:nth-child(9)
-2pan.cc###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
-2pan.cc##DIV.foot_box:nth-child(13)
-2pan.cc###r1
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
-2pan.cc###fl_dir_box > DIV.hr:nth-child(7)
-2pan.cc##DIV.foot_box:nth-child(9)
-2pan.cc###dl_box > DIV:nth-child(2)
-2pan.cc##DIV.layout_box.box_shadow:nth-child(5) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
-2pan.cc##DIV.foot_box:nth-child(10)
-2pan.cc###dl_box > DIV.pd5:last-child
-2pan.cc##DIV.foot_box:nth-child(5)
-2pan.cc##DIV.foot_box:nth-child(7)
-2pan.cc##DIV.foot_box:nth-child(8)
-2pan.cc##DIV.head_box:nth-child(3) > DIV.menu:nth-child(2) > UL
-2pan.cc##DIV.foot_box:nth-child(12)
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(9)
-2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child > DIV.widget-header.widget-header-flat.header-color-red:first-child > H3.bigger.lighter
-2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child > DIV.widget-body:last-child > DIV.widget-main
-2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child > DIV.widget-header.widget-header-flat.header-color-red:first-child
-2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child
-2pan.cc##DIV.head_box:nth-child(4)
-2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.alert.alert-block.alert-danger:first-child > P:last-child
-2pan.cc###nav-search-input
-2pan.cc###nav-search-icon
-2pan.cc###b1 > DIV > A > IMG
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(12) > DIV:first-child > A > IMG
-2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(12)
-2pan.cc##DIV.foot_box:nth-child(11)
-yousuwp.com###main-content > DIV:nth-child(4)
-yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-warning.btn-block
-yousuwp.com###main-content > DIV.bottom-hint:last-child
-yousuwp.com###footer
-yousuwp.com##DIV.navbar:nth-child(3) > DIV.navbar-inner > DIV.container-fluid:last-child > UL.nav.main-menu.menu-left:nth-child(2) > LI:first-child > A
-yousuwp.com##DIV.navbar:nth-child(3) > DIV.navbar-inner > DIV.container-fluid:last-child > UL.nav.main-menu.menu-left:nth-child(2) > LI:last-child > A
-yousuwp.com###page-content > DIV.page-header.position-relative > DIV.row-fluid > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV:nth-child(2)
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > A:last-child > IMG
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-warning.btn-block
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner:first-child > DIV.widget-main
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV:last-child
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4)
-yousuwp.com###page-content > DIV.bottom-hint:last-child
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV:nth-child(2)
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-warning.btn-block
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner:first-child > DIV.widget-main
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV:last-child > IMG
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:nth-child(6)
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > UL.share_info:nth-child(4)
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:last-child
-yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span8:first-child > DIV.header_content:last-child
-yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > P:nth-child(3)
-678pan.org###breadcrumbs > UL.breadcrumb:first-child > LI:last-child > A:last-child
-678pan.org###page-content > DIV.page-header.position-relative:first-child > A:nth-child(2) > IMG
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9 > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(3) > TABLE.table.table-bordered.table-striped
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(4) > A.btn.btn-danger.btn-block.STYLE1
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
-678pan.org###footer > DIV.text-right:first-child > DIV
-678pan.org###footer > DIV.text-right:last-child > DIV
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:last-child > A.btn.btn-danger.btn-block
-678pan.org###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-678pan.org###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-678pan.org###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
-678pan.org###main-content > DIV:nth-child(4)
-678pan.org###main-content > DIV.bottom-hint:last-child
-678pan.org###nav-search-input
-678pan.org###footer
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child > A > SPAN
-678pan.org##DIV.navbar.navbar-inverse:nth-child(4)
+！本规则完美过滤“优速盘”，“即可盘”，“分享盘”，“牛盘”，“678网盘”下载界面的各种广告
+jkpan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（2）> DIV.file_item> LI：n-child（6）
+jkpan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（2）> DIV.file_item> LI：最后一个孩子
+jkpan.cc ### fl_dir_box> DIV：nth-​​child（5）> DIV.clear：nth-​​child（8）
+jkpan.cc ### fl_dir_box> DIV：第n个孩子（10）> LI.f14.txtgray
+jkpan.cc ### fl_dir_box> DIV.hr:nth-child（9）
+jkpan.cc ### r2> DIV.clear：最后一个孩子
+jkpan.cc ## DIV.foot_box：第n个孩子（12）
+jkpan.cc ### fl_dir_box> DIV.file_item：nth-​​child（3）> DIV
+jkpan.cc ### fl_dir_box> DIV：nth-​​child（5）> DIV.clear：最后一个孩子
+jkpan.cc ### fl_dir_box> DIV：第n个孩子（8）> LI.f14.txtgray
+jkpan.cc ### fl_dir_box> DIV：第n个孩子（3）> DIV.clear：最后一个孩子
+jkpan.cc ### fl_dir_box> DIV.hr:nth-child(7）
+jkpan.cc ## DIV.foot_box：第n个孩子（15）
+jkpan.cc ## DIV.layout_box.box_shadow：nth-​​child（4）> DIV.l：first-child> DIV.file_item.f14.box_shadow：last-child
+jkpan.cc ### dl_box> DIV.pd5：最后一个孩子
+jkpan.cc ### R1
+jkpan.cc ## DIV.foot_box：第n个孩子（10）
+fxpan.com ## DIV：n-child（4）> DIV.page-footer：n-child（13）> FOOTER.footer-nav：first-child
+fxpan.com ## DIV：第n个孩子（4）
+fxpan.com ### fl_dir_box> DIV.file_box> DIV：nth-​​child（2）> DIV.file_item.file_desc：first-child
+fxpan.com ### fl_dir_box> DIV.file_box> DIV：nth-​​child（9）> LI.f14.txtgray
+fxpan.com ### fl_dir_box> DIV.file_box> DIV.hr:nth-child(8）
+fxpan.com ### bdshare> IMG：第一个孩子
+fxpan.com ### bdshare> A.shareCount：最后一个孩子
+fxpan.com ## DIV.foot_box：第n个孩子（7）
+fxpan.com ## DIV.page-wrapper：first-child> DIV.page-navbar：first-child> NAV.navbar> DIV.container> DIV.navbar-container：last-child> UL.nav.navbar-nav .navbar-main：第一个孩子> LI：第n个孩子（4）> A
+fxpan.com ## DIV.page-wrapper：first-child> DIV.page-navbar：first-child> NAV.navbar> DIV.container> DIV.navbar-container：last-child> UL.nav.navbar-nav .navbar-main：first-child> LI：第n个孩子（5）> A
+fxpan.com ## DIV.page-wrapper：first-child> DIV.page-navbar：first-child> NAV.navbar> DIV.container> DIV.navbar-container：last-child> UL.nav.navbar-nav .navbar-main：first-child> LI：last-child> A
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：nth-​​child（5）
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：nth-​​child（3）> DIV.file_item.f14.box_shadow：last-child
+fxpan.com ### dl_box
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：first-child> DIV：last-child
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：first-child> DIV：first-child> DIV：last-child
+fxpan.com ### B1
+fxpan.com ### addr_list> DIV.titdown
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：first-child> DIV：first-child> H1：first-child
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：first-child> DIV：first-child
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV：第一个孩子
+fxpan.com ## DIV.layout_box.box_shadow：nth-​​child（2）> DIV.index213_box：last-child
+fxpan.com ###容器> DIV：第n孩子（2）> DIV> DIV：第一个孩子
+fxpan.com ###容器> DIV：第n个孩子（2）> DIV> DIV：最后一个孩子
+fxpan.com ## DIV.page-wrapper：first-child> DIV.layout_box.box_shadow：nth-​​child（15）> DIV：first-child> DIV
+fxpan.com ## DIV.page-wrapper：first-child> DIV.layout_box.box_shadow：nth-​​child（15）> DIV：first-child
+fxpan.com ### f_tips
+2pan.cc ### fl_dir_box> DIV.file_box：第一个孩子> DIV：第一个孩子
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（7）
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（8）
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（10）
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（11）
+2pan.cc ### fl_dir_box> DIV.file_item：nth-​​child（3）> LI.txtgray：first-child
+2pan.cc ### fl_dir_box> DIV.file_item：nth-​​child（3）> LI.txtgray：n-child（2）
+2pan.cc ### fl_dir_box> DIV.file_item：nth-​​child（3）> LI.txtgray：最后一个孩子
+2pan.cc ### fl_dir_box> DIV.hr:nth-child（9）
+2pan.cc ### fl_dir_box> DIV：第n个孩子（10）> LI.f14.txtgray
+2pan.cc ## DIV.foot_box：第n个孩子（13）
+2pan.cc ### R1
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（2）> DIV.file_item> LI：最后一个孩子
+2pan.cc ### fl_dir_box> DIV.hr:nth-child(7）
+2pan.cc ## DIV.foot_box：第n个孩子（9）
+2pan.cc ### dl_box> DIV：第n个孩子（2）
+2pan.cc ## DIV.layout_box.box_shadow：nth-​​child（5）> DIV.l：first-child> DIV.file_item.f14.box_shadow：last-child
+2pan.cc ## DIV.foot_box：第n个孩子（10）
+2pan.cc ### dl_box> DIV.pd5：最后一个孩子
+2pan.cc ## DIV.foot_box：第n个孩子（5）
+2pan.cc ## DIV.foot_box：第n个孩子（7）
+2pan.cc ## DIV.foot_box：第n个孩子（8）
+2pan.cc ## DIV.head_box：n-child（3）> DIV.menu:nth-child（2）> UL
+2pan.cc ## DIV.foot_box：第n个孩子（12）
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（9）
+2pan.cc ### page-content> DIV.row-fluid> DIV.span8.offset2> DIV.widget-box.pricing-box：last-child> DIV.widget-header.widget-header-flat.header-颜色红色：第一个孩子> H3.bigger.lighter
+2pan.cc ### page-content> DIV.row-fluid> DIV.span8.offset2> DIV.widget-box.pricing-box：last-child> DIV.widget-body：last-child> DIV.widget-主要
+2pan.cc ### page-content> DIV.row-fluid> DIV.span8.offset2> DIV.widget-box.pricing-box：last-child> DIV.widget-header.widget-header-flat.header-颜色红：第一子
+2pan.cc ### page-content> DIV.row-fluid> DIV.span8.offset2> DIV.widget-box.pricing-box：last-child
+2pan.cc ## DIV.head_box：第n个孩子（4）
+2pan.cc ### page-content> DIV.row-fluid> DIV.span8.offset2> DIV.alert.alert-block.alert-danger：first-child> P：last-child
+2pan.cc ###导航搜索输入
+2pan.cc ###导航搜索图标
+2pan.cc ### b1> DIV> A> IMG
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（12）> DIV：first-child> A> IMG
+2pan.cc ### fl_dir_box> DIV.file_box：first-child> DIV.fb_l.f14.txtgray：nth-​​child（3）> DIV.file_item> LI：n-child（12）
+2pan.cc ## DIV.foot_box：第n个孩子（11）
+yousuwp.com ### main-content> DIV：n-child（4）
+yousuwp.com ### main-content> DIV.downpage_l：nth-​​child（3）> DIV.row-fluid：first-child> DIV.widget-box.transparent> DIV.widget-header.widget-header-flat ：第一个孩子
+yousuwp.com ### main-content> DIV.downpage_l：nth-​​child（3）> DIV.row-fluid：nth-​​child（2）> TABLE.table.table-bordered.table-striped
+yousuwp.com ### main-content> DIV.downpage_l：nth-​​child（3）> DIV.row-fluid：nth-​​child（3）> A.btn.btn-warning.btn-block
+yousuwp.com ### main-content> DIV.bottom -hint：最后一个孩子
+yousuwp.com ###页脚
+（3）> DIV.navbar-inner> DIV.container-fluid：last-child> UL.nav.main-menu.menu-left：n-child（2） >李：第一个孩子> A
+（3）> DIV.navbar-inner> DIV.container-fluid：last-child> UL.nav.main-menu.menu-left：n-child（2） >李：最后一个孩子> A
+yousuwp.com ### page-content> DIV.page-header.position-relative> DIV.row-fluid> DIV.pull-right：last-child> A.btn.btn-app.btn-mini.btn-警告：第n个孩子（3）
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-子> DIV.widget-box.transparent> DIV.widget-header.widget-header-flat：first-child
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-孩子> DIV.widget-box.transparent> DIV：n-child（2）
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-儿童> DIV.widget-box.transparent> DIV.widget-body：last-child> DIV.widget-body-inner> DIV：first-child> A：last-child> IMG
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth- child（2）> TABLE.table.table-bordered.table-striped
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth-孩子（3）> A.btn.btn-warning.btn-block
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth-子（4）> DIV.widget-box.transparent> DIV.widget-header.widget-header-flat：first-child
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth- child（4）> DIV.widget-box.transparent> DIV.widget-body：last-child> DIV.widget-body-inner> DIV.widget-main
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：last-子> DIV.widget-box.transparent> DIV.widget-header.widget-header-flat：first-child
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：last-子> DIV.widget-box.transparent> DIV.widget-body：last-child> DIV.widget-body-inner：first-child> DIV.widget-main
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：last-儿童
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV：last-child
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth-儿童（4）
+yousuwp.com ### page-content> DIV.bottom -hint：最后一个孩子
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-child> DIV.widget-box.transparent> DIV.widget- header.widget头平：第一子
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-child> DIV.widget-box.transparent> DIV：nth-儿童（2）
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-child> DIV.widget-box.transparent> DIV.widget- body：last-child> DIV.widget-body-inner> DIV：first-child> A：first-child> IMG
+yousuwp.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth-​​child（2）> TABLE.table.table-bordered.table -striped
+yousuwp.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：n-child（3）> A.btn.btn-warning.btn -块
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth-​​child（4）> DIV.widget-box.transparent> DIV .widget-header.widget头平：第一子
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：nth-​​child（4）> DIV.widget-box.transparent> DIV .widget-body：last-child> DIV.widget-body-inner> DIV.widget-main
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：last-child> DIV.widget-box.transparent> DIV.widget- header.widget头平：第一子
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：last-child> DIV.widget-box.transparent> DIV.widget- body：last-child> DIV.widget-body-inner：first-child> DIV.widget-main
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：last-child> DIV.widget-box.transparent> DIV.widget-身体：最后一个孩子> DIV：最后一个孩子> IMG
+yousuwp.com ### page-content> DIV.row-fluid：last-child> DIV：last-child> DIV：n-child（6）
+you.wap.com ### page-content> DIV.row-fluid：last-child> DIV：last-child> UL.share_info：n-child（4）
+yousuwp.com ### page-content> DIV.row-fluid：最后一个孩子> DIV：最后一个孩子> DIV：最后一个孩子
+yousuwp.com ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid> DIV.span8：first-child> DIV.header_content：last-child
+youtube.com ### page-content> DIV.row-fluid：last-child> DIV.downpage_l：first-child> DIV.row-fluid：first-child> DIV.widget-box.transparent> P：nth-儿童（3）
+678pan.org ### breadcrumbs> UL.breadcrumb：第一胎> LI：最后一胎> A：最后一胎
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> A：nth-​​child（2）> IMG
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：first-child> DIV.span9> DIV.pull-right：last-child> A. btn.btn-app.btn-mini.btn警告：第n个孩子（3）
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：nth-​​child（3）> TABLE.table.table-bordered.table-striped
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：n-child（4）> A.btn.btn-danger.btn-block.STYLE1
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l> DIV.row-fluid：first-child> DIV。 widget-box.transparent> DIV.widget-body> DIV.widget-body-inner> DIV：first-child> A：first-child> IMG
+678pan.org ### footer> DIV.text-right：first-child> DIV
+678pan.org ### footer> DIV.text-right：last-child> DIV
+678pan.org ### page-content> DIV.page-header.position-relative> DIV.row-fluid：first-child> DIV.pull-right：last-child> A.btn.btn-app.btn- mini.btn预警：第n个孩子（3）
+678pan.org ### page-content> DIV.page-header.position-relative> DIV.row-fluid：last-child> DIV.downpage_l> DIV.row-fluid：first-child> DIV.widget-box。透明> DIV.widget-header.widget-header-flat：第一个孩子
+DIV.row-fluid：nth-​​child（2）> TABLE.table 。表-bordered.table条纹
+678pan.org ### page-content> DIV.page-header.position-relative> DIV.row-fluid：last-child> DIV.downpage_l> DIV.row-fluid：last-child> A.btn.btn- danger.btn块
+678pan.org ### main-content> DIV.downpage_l：nth-​​child（3）> DIV.row-fluid：first-child> DIV.widget-box.transparent> DIV.widget-header.widget-header-flat ：第一个孩子
+678pan.org ### main-content> DIV.downpage_l：nth-​​child（3）> DIV.row-fluid：nth-​​child（2）> TABLE.table.table-bordered.table-striped
+678pan.org ### main-content> DIV.downpage_l：n-child（3）> DIV.row-fluid：n-child（3）> A.btn.btn-danger.btn-block
+678pan.org ### main-content> DIV：n-child（4）
+678pan.org ### main-content> DIV.bottom -hint：最后一个孩子
+678pan.org ###导航搜索输入
+678pan.org ###页脚
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l> DIV.row-fluid：first-child> DIV。 widget-box.transparent> DIV.widget-body> DIV.widget-body-inner> DIV：first-child> DIV：last-child
+678pan.org ### page-content> DIV.page-header.position-relative：first-child> DIV.row-fluid：last-child> DIV.downpage_l> DIV.row-fluid：first-child> DIV。 widget-box.transparent> DIV.widget-body> DIV.widget-body-inner> DIV：first-child> DIV：last-child> A> SPAN
+678pan.org ## DIV.navbar.navbar逆：第n个孩子（4）
