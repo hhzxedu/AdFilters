@@ -2,10 +2,10 @@
 ! Title: NetDisk AdFilters
 ! Expires: 12 hours
 ! Version: 201805242235
-! Last Modified: 2018Äê05ÔÂ24ÈÕ 22:35
+! Last Modified: 2018å¹´05æœˆ24æ—¥ 22:35
 ! Homepage: http://www.qiuquan.cc/
 
-!±¾¹æÔòÍêÃÀ¹ýÂË¡°ÓÅËÙÅÌ¡±¡¢¡°¼´¿ÉÅÌ¡±¡¢¡°·ÖÏíÅÌ¡±¡¢¡°Å£ÅÌ¡±¡¢¡°678ÍøÅÌ¡±ÏÂÔØ½çÃæµÄ¸÷ÖÖ¹ã¸æ
+! æœ¬è§„åˆ™å®Œç¾Žè¿‡æ»¤â€œä¼˜é€Ÿç›˜â€ã€â€œå³å¯ç›˜â€ã€â€œåˆ†äº«ç›˜â€ã€â€œç‰›ç›˜â€ã€â€œ678ç½‘ç›˜â€ä¸‹è½½ç•Œé¢çš„å„ç§å¹¿å‘Š
 jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(6)
 jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
 jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:nth-child(8)
