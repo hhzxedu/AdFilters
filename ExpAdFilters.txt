@@ -1,0 +1,33 @@
+[Adblock Plus 2.0]
+! Title: s4AdFilters广告过滤补充
+! Expires: 12 hours
+! Version: 20180524-2019
+! Last Modified: 2018年05月24日 22:35
+! Homepage: http://www.baidu.com/
+! 自用广告过滤补充
+imeiju.cc###cambrian0
+hanjutv.com##A.qianhuiji:nth-child(5)
+hanjutv.com###widget-WeChat
+bbs.125.la###wp > DIV.wp.a_t:nth-child(2) > TABLE
+bilibili.com###bilibiliPlayer > DIV.bilibili-player-auxiliary-area:nth-child(2) > DIV.bilibili-player-wraplist:nth-child(3) > DIV.bilibili-player-filter-wrap.bilibili-player-recommend:nth-child(3) > DIV.bilibili-player-promote-wrap:last-child
+bbs.125.la###wp > DIV.wp.a_t:nth-child(9) > TABLE
+bbs.125.la##DIV.wp.a_h:nth-child(7)
+|http://www.5xuu9.com/5xcss/adv/*
+5xuu9.com##.layui-layer-shade
+5xuu9.com##DIV.container:nth-child(3) > DIV.top:first-child
+5xuu9.com##DIV.container:nth-child(3) > DIV.top:nth-child(4)
+5xuu9.com###layui-layer1
+5xuu9.com##.table
+5xuu9.com##.medium-avatar
+5xuu9.com##.place
+5xuu9.com###playerOverlay
+zxdy.cc###buffer
+bbs.eastsea.com.cn##.toptb_wy
+zdfans.ctfile.com##div.download-simple-box.download-box:nth-of-type(4) > ul > li:nth-of-type(4)
+zdfans.ctfile.com##div.row-fluid:nth-of-type(5)
+zdfans.ctfile.com##.text-center.row-fluid
+www.douyu.com##.multiBitRate-b008b6
+www.douyu.com##.luckBg1-7b13e4
+www.douyu.com##.luckDraw_bg-b94a06
+www.douyu.com###js-stats-and-actions
+www.douyu.com##.no-login
