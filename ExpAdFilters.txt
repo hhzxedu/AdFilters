@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
-! Title: s4AdFilters¹ã¸æ¹ıÂË²¹³ä
+! Title: ExpAdFilters
 ! Expires: 12 hours
 ! Version: 20180524-2019
-! Last Modified: 2018Äê05ÔÂ24ÈÕ 22:35
+! Last Modified: 2018å¹´05æœˆ24æ—¥ 22:35
 ! Homepage: http://www.baidu.com/
-! ×ÔÓÃ¹ã¸æ¹ıÂË²¹³ä
+
+! è‡ªç”¨å¹¿å‘Šè¿‡æ»¤è¡¥å……
 imeiju.cc###cambrian0
 hanjutv.com##A.qianhuiji:nth-child(5)
 hanjutv.com###widget-WeChat
