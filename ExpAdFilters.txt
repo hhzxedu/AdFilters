@@ -22,6 +22,8 @@ bbs.125.la##DIV.wp.a_h:nth-child(7)
 5xuu9.com##.medium-avatar
 5xuu9.com##.place
 5xuu9.com###playerOverlay
+www.5xuu9.com###pop
+www.5xuu9.com###popl
 zxdy.cc###buffer
 bbs.eastsea.com.cn##.toptb_wy
 zdfans.ctfile.com##div.download-simple-box.download-box:nth-of-type(4) > ul > li:nth-of-type(4)
