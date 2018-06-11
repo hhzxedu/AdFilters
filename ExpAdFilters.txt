@@ -1,12 +1,71 @@
 [Adblock Plus 2.0]
 ! Title: ExpAdFilters
-! Expires: 12 hours
-! Version: 20180524-2019
-! Last Modified: 2018年05月24日 22:35
+! Expires: 2 days
+! Version: 2018年06月05日
 ! Homepage: http://www.baidu.com/
 
 ! 自用广告过滤补充
+##div.ui-sponsor
+###layui-layer1
+###layui-layer2
+###layui-layer-shade1
+##.layui-layer-shade
+##.list-newest-w.list-block-gw
+##.wide-overlay-ad.adDisplay
+##.hidden-sm.hidden-xs.right
+###player-advertising
+##.vjs-watermark##.top
+##.table
+##.medium-avatar
+###buffer
+##.ads-footer
+##.ads
+###popl
+###pop
+##.place
+##.top
+##NOINDEX
+###playerOverlay
+999avtb.com###menu-main-content > li:nth-of-type(4)
+999avtb.com###menu-main-content > li:nth-of-type(5)
+999avtb.com###menu-main-content > li:nth-of-type(6)
+999avtb.com###menu-main-content > li:nth-of-type(7)
+999avtb.com###menu-main-content > li:nth-of-type(8)
+999avtb.com###menu-main-content > li:nth-of-type(9)
+999avtb.com###menu-main-content > li:nth-of-type(10)
+anyxxx.com###divExoLayerWrapper
+||chuantu.biz/t6/*/*-*.gif$image
+www.wghai.net##.a_xiu_h.wp
+www.wghai.net###sc-dzf
+www.wghai.net##.a_xiu_t.wp
+www.wghai.net##.a_xiu_pt
+www.wghai.net##.a_xiu_pb
+www.wghai.net##.a_xiu_pr
+www.niucuntao.com##body > div.container:nth-of-type(2) > div.row:nth-of-type(1)
+v.niucuntao.com##body > .container > div.row:nth-of-type(1)
+v.niucuntao.com###shiping_box > DIV:first-child > A > IMG
+v.niucuntao.com##DIV.container:nth-child(2) > DIV.row:last-child > DIV.container:nth-child(4) > DIV.row > DIV.col-md-9.col-sm-12.hy-main-content:first-child > DIV.hy-layout.clearfix:first-child > DIV:first-child > A > IMG
+www.bayiyy.com##.activityPop-bg
+www.bayiyy.com##.new-discounts
+www.bayiyy.com##.section-list-w.module-cmt-list
+www.2020tv.cn##.bdshare-button-style0-24.bdsharebuttonbox
+www.kuaiyongwo.com##.qr_code_pc
+www.yy6042.org###cs_right_bottom
+www.yy6042.org###gg
+www.yy6042.org##.mod_ad
+www.yy6042.org##.fn-right.detail-union
+www.mianbao99.com##.qire-notice
+www.mianbao99.com###ad_rightBottom
+www.mianbao99.com###xigua-pl-list
+www.mianbao99.com###sohu-top-sponer
+www.mianbao99.com##.playbox-bottom
+www.wo23.com##.Adinfo
+www.zhaofanhao.cn###dl1
+www.zhaofanhao.cn###dl2
+||ue.ueadlian.com/code/*.php$subdocument
+www.520boxtv.com##div:nth-of-type(8)
 imeiju.cc###cambrian0
+www.imeiju.cc###ft_Div_ftcpvrich1474B
 hanjutv.com##A.qianhuiji:nth-child(5)
 hanjutv.com###widget-WeChat
 bbs.125.la###wp > DIV.wp.a_t:nth-child(2) > TABLE
@@ -14,19 +73,8 @@ bilibili.com###bilibiliPlayer > DIV.bilibili-player-auxiliary-area:nth-child(2) 
 bbs.125.la###wp > DIV.wp.a_t:nth-child(9) > TABLE
 bbs.125.la##DIV.wp.a_h:nth-child(7)
 |http://www.5xuu9.com/5xcss/adv/*
-5xuu9.com##.layui-layer-shade
-5xuu9.com##DIV.container:nth-child(3) > DIV.top:first-child
-5xuu9.com##DIV.container:nth-child(3) > DIV.top:nth-child(4)
-5xuu9.com###layui-layer1
-5xuu9.com##.table
-5xuu9.com##.medium-avatar
-5xuu9.com##.place
-5xuu9.com###playerOverlay
-www.5xuu9.com###pop
-www.5xuu9.com###popl
-zxdy.cc###buffer
 bbs.eastsea.com.cn##.toptb_wy
-zdfans.ctfile.com##div.download-simple-box.download-box:nth-of-type(4) > ul > li:nth-of-type(4)
+zdfans.ctfile.com##div.download-simple-box.download-box
 zdfans.ctfile.com##div.row-fluid:nth-of-type(5)
 zdfans.ctfile.com##.text-center.row-fluid
 www.douyu.com##.multiBitRate-b008b6
@@ -34,3 +82,18 @@ www.douyu.com##.luckBg1-7b13e4
 www.douyu.com##.luckDraw_bg-b94a06
 www.douyu.com###js-stats-and-actions
 www.douyu.com##.no-login
+www.right.com.cn##h2
+www.97pd.com##.cpc2.qire-box
+www.97pd.com##.vod_1
+www.hanjutv.com###widget-weixin
+www.hanjutv.com##.widget-qianhuiji
+www.hanjutv.com###fixedAd
+www.hanjutv.com##.mb16.slide-grid
+www.dsmi.cc##.d-share
+www.dsmi.cc##.mbak_l
+www.dsmi.cc##.share
+ppshipin.com##DIV:nth-child(15)
+ppshipin.com##DIV:nth-child(16)
+ppshipin.com##DIV:nth-child(17)
+youtube.com###google_ads_frame1
+youtube.com###.video-ads
