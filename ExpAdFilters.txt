@@ -24,7 +24,6 @@
 ###pop
 ##.place
 ##.top
-@@##.top$domain=taobao.com
 ##NOINDEX
 ###playerOverlay
 999avtb.com###menu-main-content > li:nth-of-type(4)
