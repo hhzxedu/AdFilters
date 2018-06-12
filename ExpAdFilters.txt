@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ExpAdFilters[20180612000]
 ! Expires: 2 days
-! Version: 2018年06月11日
+! Version: 20180612000
 ! Homepage: http://www.baidu.com/
 
 ! 自用广告过滤补充
@@ -23,7 +23,7 @@
 ###popl
 ###pop
 ##.place
-##.top
+@@##.top
 ##NOINDEX
 ###playerOverlay
 999avtb.com###menu-main-content > li:nth-of-type(4)
