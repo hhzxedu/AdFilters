@@ -82,6 +82,9 @@ www.douyu.com##.luckBg1-7b13e4
 www.douyu.com##.luckDraw_bg-b94a06
 www.douyu.com###js-stats-and-actions
 www.douyu.com##.no-login
+douyu.com##.bg-1a1f33
+douyu.com##.PaladinPop--show.PaladinPop
+blog.csdn.net##.advert-cur.advert-bg
 www.right.com.cn##h2
 www.97pd.com##.cpc2.qire-box
 www.97pd.com##.vod_1
