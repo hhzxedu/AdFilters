@@ -101,3 +101,5 @@ ppshipin.com##DIV:nth-child(17)
 999avtb.com###menu-main-content > li:nth-of-type(9)
 999avtb.com###menu-main-content > li:nth-of-type(10)
 anyxxx.com###divExoLayerWrapper
+/Tpl/custom/style/images/pauseAds.png
+||www.kb709.com
