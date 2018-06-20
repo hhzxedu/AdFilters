@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180612000
-! Title:  ChinaListV2.0[20180612000]
-! Last modified: 2018/06/12 08:25:07 +0800
+! Version: 20180620001
+! Title:  ChinaListV2.0[20180620001]
+! Last modified: 2018/06/20 18:43:30 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -13503,6 +13503,8 @@ https://web.da.mgtv.com/pc/player$redirect=http://v.huya.com/jsapi/getliverelate
 @@||web.da.mgtv.com/crossdomain.xml$domain=mgtv.com
 search.jd.com##.gl-item:contains(å¹¿å‘Š)
 *$domain=btdigg.cc|kikibt.co|cililianbt.com,third-party
+@@||static.mediav.com/js/mvf_wheel_min_plugin.js$domain=v.360kan.com,third-party
+@@||vku.youku.com^
 ||146.148.85.61^
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
