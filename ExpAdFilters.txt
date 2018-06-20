@@ -64,6 +64,8 @@ bbs.125.la###wp > DIV.wp.a_t:nth-child(2) > TABLE
 bilibili.com###bilibiliPlayer > DIV.bilibili-player-auxiliary-area:nth-child(2) > DIV.bilibili-player-wraplist:nth-child(3) > DIV.bilibili-player-filter-wrap.bilibili-player-recommend:nth-child(3) > DIV.bilibili-player-promote-wrap:last-child
 bbs.125.la###wp > DIV.wp.a_t:nth-child(9) > TABLE
 bbs.125.la##DIV.wp.a_h:nth-child(7)
+bbs.125.la##.mtw.y
+bbs.125.la##.a_pt
 bbs.eastsea.com.cn##.toptb_wy
 zdfans.ctfile.com##div.download-simple-box.download-box
 zdfans.ctfile.com##div.row-fluid:nth-of-type(5)
@@ -102,3 +104,6 @@ ppshipin.com##DIV:nth-child(17)
 anyxxx.com###divExoLayerWrapper
 /Tpl/custom/style/images/pauseAds.png
 ||www.kb709.com
+518ziyuan.com##.hidden-xs
+518ziyuan.com##.notice
+||www.xhgzyz.com/1.gif$image
