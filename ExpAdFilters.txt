@@ -15,7 +15,6 @@
 ##.hidden-sm.hidden-xs.right
 ###player-advertising
 ##.vjs-watermark##.top
-##.table
 ##.medium-avatar
 ###buffer
 ##.ads-footer
