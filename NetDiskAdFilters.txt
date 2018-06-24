@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: NetDisk AdFilters
 ! Expires: 12 hours
-! Version: 201806172043
-! Last Modified: 2018年06月17日 20:43
+! Version: 201806242109
+! Last Modified: 2018年06月24日 21:09
 ! Homepage: http://www.qiuquan.cc/
 !
-!本规则完美过滤“优速盘”、“即可盘”、“分享盘”、“牛盘”、“678网盘”下载界面的各种广告
+!本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”下载界面的各种广告
 
 
 !网赚网盘广告过滤规则
@@ -65,7 +65,7 @@ fxpan.com###container > DIV:nth-child(2) > DIV > DIV:last-child
 fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child > DIV
 fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child
 fxpan.com###f_tips
-|http://www.2pan.*/file-$s@var secs = 10;@var secs = 0;@
+|http://www.2pan.*/file-$s@var secs = *;@var secs = 0;@
 |http://www.2pan.*/file$s@href=\"down2-@href=\"down-@
 |http://www.2pan.*/file$s@var paypopupURL=@@
 |http://www.2pan.*$s@var paypopupURL='https://s.click.taobao.com/ei0KMTw'+authcode@nothing@
@@ -107,6 +107,9 @@ fxpan.com###f_tips
 2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(12)
 2pan.cc##DIV.foot_box:nth-child(11)
 2pan.cc##DIV.layout_box.box_shadow:nth-child(6) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+|http://www.yousuwp.*/file-$s@var secs = *;@var secs = 0;@
+|http://www.yousuwp.*/file$s@href=\"down2-@href=\"down-@
+|http://www.yousuwp.*/file$s@var paypopupURL=@@
 yousuwp.com###main-content > DIV:nth-child(4)
 yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
 yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
@@ -144,6 +147,9 @@ yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > UL.shar
 yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:last-child
 yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span8:first-child > DIV.header_content:last-child
 yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > P:nth-child(3)
+yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner > DIV.container-fluid:last-child
+yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(4)
 678pan.org###breadcrumbs > UL.breadcrumb:first-child > LI:last-child > A:last-child
 678pan.org###page-content > DIV.page-header.position-relative:first-child > A:nth-child(2) > IMG
 678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9 > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
@@ -166,3 +172,100 @@ yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-chi
 678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child
 678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child > A > SPAN
 678pan.org##DIV.navbar.navbar-inverse:nth-child(4)
+llpan.com##DIV:nth-child(15) > IFRAME:last-child
+llpan.com##DIV:nth-child(16) > IFRAME:last-child
+llpan.com###c62500
+llpan.com###c22318
+llpan.com##CENTER:nth-child(3) > IFRAME:last-child
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(9) > DIV.bdsharebuttonbox.bdshare-button-style0-32:first-child
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(9)
+llpan.com###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:first-child
+llpan.com###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:nth-child(2)
+llpan.com###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:last-child
+llpan.com###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
+llpan.com###fl_dir_box > DIV.hr:nth-child(9)
+llpan.com##DIV.foot_box:nth-child(20)
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(8)
+llpan.com###ZeroClipboardMovie_1
+llpan.com###r1
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:first-child > DIV.file_item > LI:last-child
+llpan.com###fl_dir_box > DIV.hr:nth-child(7)
+llpan.com##DIV.foot_box:nth-child(14)
+llpan.com##DIV.layout_box.box_shadow:nth-child(8) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+llpan.com##DIV.foot_box:nth-child(17)
+llpan.com##DIV:nth-child(14) > IFRAME:last-child
+llpan.com##DIV.foot_box:nth-child(19) > DIV:first-child
+llpan.com##DIV.foot_box:nth-child(19) > DIV.foot_info:last-child
+llpan.com##DIV.foot_box:nth-child(19)
+llpan.com###c62187
+llpan.com###c71163
+llpan.com##CENTER:nth-child(5)
+llpan.com###f3
+llpan.com###f4
+llpan.com##DIV.foot_box:nth-child(9)
+llpan.com##DIV.foot_box:nth-child(18)
+|http://www.567pan.*/file-$s@var secs = *;@var secs = 0;@
+|http://www.567pan.*/file$s@href=\"down2-@href=\"down-@
+|http://www.567pan.*/file$s@var paypopupURL=@@
+567pan.com###footer
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+567pan.com##DIV.lo_box.box_shadow:nth-child(16)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > DIV.header_content:nth-child(6)
+567pan.com###aswift_0
+567pan.com###aswift_0_anchor
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > DIV.header_content:last-child
+567pan.com###aswift_0_expand
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > INS.adsbygoogle:nth-child(8)
+567pan.com###aswift_1
+567pan.com###aswift_1_anchor
+567pan.com###aswift_1_expand
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###aswift_2
+567pan.com###aswift_4
+567pan.com###aswift_3
+567pan.com###aswift_3_anchor
+567pan.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:nth-child(9)
+567pan.com###aswift_4_anchor
+567pan.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:last-child
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+567pan.com###aswift_2_anchor
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###main-content > DIV.bottom-hint:last-child
+567pan.com###page-content > INS.adsbygoogle:nth-child(3)
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(2)
+567pan.com###aswift_2_expand
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(9)
+567pan.com###page-content > DIV.row-fluid:last-child > DIV:last-child > INS.adsbygoogle:nth-child(7)
+567pan.com##DIV.navbar.navbar-inverse:nth-child(3) > DIV.navbar-inner > DIV.container-fluid:last-child
+567pan.com##DIV.navbar.navbar-inverse:nth-child(3) > DIV.navbar-inner
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9:first-child > INS.adsbygoogle:nth-child(5)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > INS.adsbygoogle:nth-child(3)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV:last-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(2)
+567pan.com###aswift_3_expand
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(7)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###page-content > DIV.bottom-hint:last-child
+567pan.com###main-container > DIV.lo_box.box_shadow:nth-child(6)
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###main-content > DIV:nth-child(4)
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body.clear:last-child > INS.adsbygoogle:nth-child(6)
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+567pan.com##DIV.lo_box.box_shadow:nth-child(10)
+567pan.com##DIV.lo_box.box_shadow:nth-child(11)
+567pan.com##DIV.lo_box.box_shadow:nth-child(17)
+567pan.com##DIV.foot_box:nth-child(6)
+567pan.com##DIV.body_top:nth-child(2) > DIV.l:first-child
+567pan.com##DIV.head_box:nth-child(3)
+567pan.com###breadcrumbs
