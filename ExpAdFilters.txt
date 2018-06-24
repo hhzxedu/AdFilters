@@ -107,3 +107,6 @@ anyxxx.com###divExoLayerWrapper
 518ziyuan.com##.hidden-xs
 518ziyuan.com##.notice
 ||www.xhgzyz.com/1.gif$image
+fuliba.net###content > DIV:first-child > A > IMG
+fuliba.net##.alignnone
+520ziyuan.com##[src="http://wx1.sinaimg.cn/mw690/005IfWzJgy1fkvmkwh4sjj305006yq33.jpg"]
