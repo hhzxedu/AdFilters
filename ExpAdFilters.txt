@@ -109,4 +109,11 @@ anyxxx.com###divExoLayerWrapper
 ||www.xhgzyz.com/1.gif$image
 fuliba.net###content > DIV:first-child > A > IMG
 fuliba.net##.alignnone
+byyo.com##div.widget_custom_html.widget.widget_text:nth-of-type(2)
+byyo.com###focusslide
 520ziyuan.com##[src="http://wx1.sinaimg.cn/mw690/005IfWzJgy1fkvmkwh4sjj305006yq33.jpg"]
+1993s.top###pttp_div
+mp001.top/data/images/*.*
+v.pptv.com###video-download-game
+v.pptv.com##.sus-cont
+v.pptv.com###second-afp
