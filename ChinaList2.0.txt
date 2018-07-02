@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180620001
-! Title:  ChinaListV2.0[20180620001]
-! Last modified: 2018/06/20 18:43:30 +0800
+! Version: 20180702001
+! Title:  ChinaListV2.0[20180702001]
+! Last modified: 2018/07/02 15:24:28 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -13485,9 +13485,7 @@ sohu.com#%#if (document.cookie.indexOf("fee_status=true")==-1){document.cookie='
 ws://*/ws$domain=iqiyi.com,third-party,websocket
 //*/videos/other/*.f4v
 //*/videos/other/*.mp4
-http://static.iqiyi.com/js/player_v1/res/20180105/*.js$redirect=http://tools.yiclear.com/asd.js
-http://static.iqiyi.com/js/player_v1/res/20180201/163*.js$redirect=http://tools.yiclear.com/asd.js
-http://static.iqiyi.com/js/player_v1/res/2018*/103*.js$redirect=http://tools.yiclear.com/asd.js
+http://static.iqiyi.com/js/player_v1/res/2018*/16*.js$redirect=http://tools.yiclear.com/asd.js
 mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###recommend
 ||bu1.duba.com^$third-party
