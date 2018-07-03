@@ -4874,7 +4874,7 @@ onefuli.top
 ||ifengimg.com/iamsImg/*_w100_h550.
 ||ifengimg.com/iamsImg/*banner
 ||ifengimg.com/ifeng/sources/
-||ifengimg.com/iis/iis_
+@@||ifengimg.com/iis/iis_
 ||ifengimg.com/m/ax.js
 ||ifengimg.com/m/img.js
 ||ifengimg.com/mappa/
@@ -12406,7 +12406,6 @@ tingbook.com
 @@||ifengimg.com/ifeng/sources/region_$domain=auto.ifeng.com|www.ifeng.com
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
-@@||c0.ifengimg.com/iis/iis_v3_0.js$domain=v.ifeng.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|now.com|udn.com|xuite.net
 @@||img.ybbbs.com/2014/*app
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
