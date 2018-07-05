@@ -118,3 +118,5 @@ v.pptv.com###video-download-game
 v.pptv.com##.sus-cont
 v.pptv.com###second-afp
 iqiyi.com###flashbox
+right.com.cn##.a_p
+right.com.cn##.a_mu
