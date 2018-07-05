@@ -92,6 +92,7 @@ ppshipin.com##DIV:nth-child(16)
 ppshipin.com##DIV:nth-child(17)
 5xpp2.com##.top
 5xnn1.com##div.top
+5xnn2.com##div.top
 ||www.5xuu9.com/5xcss/adv/*
 999avtb.com###menu-main-content > li:nth-of-type(4)
 999avtb.com###menu-main-content > li:nth-of-type(5)
