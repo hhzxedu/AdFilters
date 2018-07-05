@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Title: ExpAdFilters[20180620000]
+! Title: ExpAdFilters[20180705000]
 ! Expires: 2 days
-! Version: 2018062000
+! Version: 2018070500
 ! Homepage: http://www.baidu.com/
 
 ! 自用广告过滤补充
-##div.ui-sponsor
+##.ui-sponsor
 ###layui-layer1
 ###layui-layer2
 ###layui-layer-shade1
@@ -117,3 +117,4 @@ mp001.top/data/images/*.*
 v.pptv.com###video-download-game
 v.pptv.com##.sus-cont
 v.pptv.com###second-afp
+iqiyi.com###flashbox
