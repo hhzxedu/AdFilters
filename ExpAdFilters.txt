@@ -5,7 +5,6 @@
 ! Homepage: http://www.baidu.com/
 
 ! 自用广告过滤补充
-##.ui-sponsor
 ###layui-layer1
 ###layui-layer2
 ###layui-layer-shade1
@@ -120,4 +119,3 @@ v.pptv.com###second-afp
 right.com.cn##.a_p
 right.com.cn##.a_mu
 babayu.com##.ui-sponsor
-v.qq.com###.player_bg_ad
