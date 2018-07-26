@@ -92,7 +92,10 @@ ppshipin.com##DIV:nth-child(16)
 ppshipin.com##DIV:nth-child(17)
 5xpp*.com##div.top
 5xnn*.com##div.top
-||www.5xuu9.com/5xcss/adv/*
+www.5xnn2.com##.top
+www.5xuu9.com##.top
+www.sexx2015.com##.table
+www.avtbb.com##.ads
 999avtb.com###menu-main-content > li:nth-of-type(4)
 999avtb.com###menu-main-content > li:nth-of-type(5)
 999avtb.com###menu-main-content > li:nth-of-type(6)
@@ -119,3 +122,15 @@ v.pptv.com###second-afp
 right.com.cn##.a_p
 right.com.cn##.a_mu
 babayu.com##.ui-sponsor
+www.605zy.com##table
+www.bayiyy.com##.activityPop
+bbs.zhiyoo.com###tabs2
+www.repaik.com###xianliaome_banner
+bbs.leybc.com###fwin_it618_showsms
+apkpure.com##[src="https://dealspure.com/outpromotion/apkpuredown-728x150"]
+apkpure.com##.right > div.box:nth-of-type(2)
+www.imeiju.cc###by
+www.lanzous.com##td:nth-of-type(2)
+/c/3908645?t=*$domain=lanzous.com
+www.605zy.com##table
+www.bayiyy.com##.activityPop
