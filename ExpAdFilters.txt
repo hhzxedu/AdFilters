@@ -134,3 +134,18 @@ www.lanzous.com##td:nth-of-type(2)
 /c/3908645?t=*$domain=lanzous.com
 www.605zy.com##table
 www.bayiyy.com##.activityPop
+||ww4.sinaimg.cn/large/*.gif
+assets.258pcf.com/*
+ct.5321pf.com/*
+xianliao.me/ads*
+gaoqingkong.com/ads/*
+/ads/*.*$domain=xhgszy.com
+www.xd0.com###search-cloud
+www.xd0.com###ShouYe_ShangBu
+www.xd0.com###HtmlMoKua_752383
+www.wzsqqq.com##.wrapper > div.wrap:nth-of-type(1)
+www.wzsqqq.com##.wrapper > div.wrap:nth-of-type(3)
+www.wzsqqq.com###favCanvas
+/1.gif$domain=xhgszy.com
+qiuquan.cc###php_text-4
+iqiyi.com###flashbox > DIV.pw-video:last-child > DIV:nth-child(3) > DIV:last-child
