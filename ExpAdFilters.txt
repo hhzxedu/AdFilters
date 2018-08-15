@@ -41,6 +41,10 @@ hanjutv.com##div.mt20.mod-inner:nth-of-type(2)
 hanjutv.com##div.mt20.mod-inner:nth-of-type(5)
 97pd.com###guanggaotop
 imeiju.cc###by
+iqiyi.com###j_pca_pc
+v.pptv.com##.download-btn
+v.pptv.com###afp_202509
+bbs.zhiyoo.com###ct > .wp
 !特殊类网站广告过滤规则
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
