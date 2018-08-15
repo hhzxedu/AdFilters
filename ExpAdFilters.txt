@@ -1,152 +1,46 @@
 [Adblock Plus 2.0]
 ! Title: ExpAdFilters[2018]
 ! Expires: 2 days
-! Version: 2018070500
+! Version: 201808
 ! Homepage: http://www.baidu.com/
 
-! 自用广告过滤补充
+!通用广告过滤规则
+!畅言广告
+###feedAv
+!弹出式广告
 ###layui-layer1
-###layui-layer2
 ###layui-layer-shade1
-##.layui-layer-shade
-##.list-newest-w.list-block-gw
-##.wide-overlay-ad.adDisplay
-##.hidden-sm.hidden-xs.right
-###player-advertising
-##.vjs-watermark##.top
-##.medium-avatar
-###buffer
-##.ads-footer
-##.ads
-###popl
-###pop
-##.place
-##NOINDEX
-###playerOverlay
-xingkbjm.com##.sidebar > .d_banner.widget > .d_banner_inner
-xingkbjm.com##.widgetRoller > .d_banner.widget > .d_banner_inner
-||chuantu.biz/t6/*/*-*.gif$image
-wghai.net##.a_xiu_h.wp
-wghai.net###sc-dzf
-wghai.net##.a_xiu_t.wp
-wghai.net##.a_xiu_pt
-wghai.net##.a_xiu_pb
-wghai.net##.a_xiu_pr
-niucuntao.com##body > div.container:nth-of-type(2) > div.row:nth-of-type(1)
-v.niucuntao.com##body > .container > div.row:nth-of-type(1)
-v.niucuntao.com###shiping_box > DIV:first-child > A > IMG
-v.niucuntao.com##DIV.container:nth-child(2) > DIV.row:last-child > DIV.container:nth-child(4) > DIV.row > DIV.col-md-9.col-sm-12.hy-main-content:first-child > DIV.hy-layout.clearfix:first-child > DIV:first-child > A > IMG
-bayiyy.com##.activityPop-bg
-bayiyy.com##.new-discounts
-bayiyy.com##.section-list-w.module-cmt-list
-2020tv.cn##.bdshare-button-style0-24.bdsharebuttonbox
-kuaiyongwo.com##.qr_code_pc
-yy6042.org###cs_right_bottom
-yy6042.org###gg
-yy6042.org##.mod_ad
-yy6042.org##.fn-right.detail-union
-mianbao99.com##.qire-notice
-mianbao99.com###ad_rightBottom
-mianbao99.com###xigua-pl-list
-mianbao99.com###sohu-top-sponer
-mianbao99.com##.playbox-bottom
-wo23.com##.Adinfo
-zhaofanhao.cn###dl1
-zhaofanhao.cn###dl2
-||ue.ueadlian.com/code/*.php$subdocument
-520boxtv.com##div:nth-of-type(8)
-imeiju.cc###cambrian0
-imeiju.cc###ft_Div_ftcpvrich1474B
-hanjutv.com##A.qianhuiji:nth-child(5)
-hanjutv.com###widget-WeChat
-bbs.125.la###wp > DIV.wp.a_t:nth-child(2) > TABLE
-bilibili.com###bilibiliPlayer > DIV.bilibili-player-auxiliary-area:nth-child(2) > DIV.bilibili-player-wraplist:nth-child(3) > DIV.bilibili-player-filter-wrap.bilibili-player-recommend:nth-child(3) > DIV.bilibili-player-promote-wrap:last-child
-bbs.125.la###wp > DIV.wp.a_t:nth-child(9) > TABLE
-bbs.125.la##DIV.wp.a_h:nth-child(7)
-bbs.125.la##.mtw.y
-bbs.125.la##.a_pt
-bbs.eastsea.com.cn##.toptb_wy
-zdfans.ctfile.com##div.download-simple-box.download-box
-zdfans.ctfile.com##div.row-fluid:nth-of-type(5)
-zdfans.ctfile.com##.text-center.row-fluid
-douyu.com##.multiBitRate-b008b6
-douyu.com##.luckBg1-7b13e4
-douyu.com##.luckDraw_bg-b94a06
-douyu.com###js-stats-and-actions
-douyu.com##.no-login
-douyu.com##.bg-1a1f33
-douyu.com##.PaladinPop--show.PaladinPop
-blog.csdn.net##.advert-cur.advert-bg
-right.com.cn##h2
-97pd.com##.cpc2.qire-box
-97pd.com##.vod_1
-hanjutv.com###widget-weixin
-hanjutv.com##.widget-qianhuiji
-hanjutv.com###fixedAd
-hanjutv.com##.mb16.slide-grid
-dsmi.cc##.d-share
-dsmi.cc##.mbak_l
-dsmi.cc##.share
-ppshipin.com##DIV:nth-child(15)
-ppshipin.com##DIV:nth-child(16)
-ppshipin.com##DIV:nth-child(17)
-5xpp*.com##div.top
-5xnn*.com##div.top
-www.5xnn2.com##.top
-www.5xuu9.com##.top
-www.sexx2015.com##.table
-www.avtbb.com##.ads
-999avtb.com###menu-main-content > li:nth-of-type(4)
-999avtb.com###menu-main-content > li:nth-of-type(5)
-999avtb.com###menu-main-content > li:nth-of-type(6)
-999avtb.com###menu-main-content > li:nth-of-type(7)
-999avtb.com###menu-main-content > li:nth-of-type(8)
-999avtb.com###menu-main-content > li:nth-of-type(9)
-999avtb.com###menu-main-content > li:nth-of-type(10)
-anyxxx.com###divExoLayerWrapper
-/Tpl/custom/style/images/pauseAds.png
-||www.kb709.com
-518ziyuan.com##.hidden-xs
-518ziyuan.com##.notice
-||www.xhgzyz.com/1.gif$image
-fuliba.net###content > DIV:first-child > A > IMG
-fuliba.net##.alignnone
-byyo.com##div.widget_custom_html.widget.widget_text:nth-of-type(2)
-byyo.com###focusslide
-520ziyuan.com##[src="http://wx1.sinaimg.cn/mw690/005IfWzJgy1fkvmkwh4sjj305006yq33.jpg"]
-1993s.top###pttp_div
-mp001.top/data/images/*.*
-v.pptv.com###video-download-game
-v.pptv.com##.sus-cont
-v.pptv.com###second-afp
-right.com.cn##.a_p
-right.com.cn##.a_mu
-babayu.com##.ui-sponsor
-www.605zy.com##table
-www.bayiyy.com##.activityPop
-bbs.zhiyoo.com###tabs2
-www.repaik.com###xianliaome_banner
-bbs.leybc.com###fwin_it618_showsms
-apkpure.com##[src="https://dealspure.com/outpromotion/apkpuredown-728x150"]
-apkpure.com##.right > div.box:nth-of-type(2)
-www.imeiju.cc###by
-www.lanzous.com##td:nth-of-type(2)
-/c/3908645?t=*$domain=lanzous.com
-www.605zy.com##table
-www.bayiyy.com##.activityPop
-||ww4.sinaimg.cn/large/*.gif
-assets.258pcf.com/*
-ct.5321pf.com/*
-xianliao.me/ads*
-gaoqingkong.com/ads/*
+!指定域名广告过滤规则
+/ads/images/*.*$domain=xhgszy.com
 /ads/*.*$domain=xhgszy.com
-www.xd0.com###search-cloud
-www.xd0.com###ShouYe_ShangBu
-www.xd0.com###HtmlMoKua_752383
-www.wzsqqq.com##.wrapper > div.wrap:nth-of-type(1)
-www.wzsqqq.com##.wrapper > div.wrap:nth-of-type(3)
-www.wzsqqq.com###favCanvas
 /1.gif$domain=xhgszy.com
-qiuquan.cc##.textwidget.widget-text
-www.lmxxxz.com/*.*
-iqiyi.com###flashbox > DIV.pw-video:last-child > DIV:nth-child(3) > DIV:last-child
+||www.1993s.top/mads.js
+||push-notifications.top/fpp.js
+v.pptv.com###video-download-game
+v.pptv.com###second-afp
+bbs.eastsea.com.cn##.toptb_wy
+fuliba.net##div.widget_custom_html.widget.widget_text:nth-of-type(2) > .custom-html-widget.textwidget
+fuliba.net##.widget_ui_textasb.widget
+fuliba.net###focusslide
+halihali.cc##.tuiguang
+kuhuiv.com##.teleplay-type
+bayiyy.com##.activityPop-bg
+bayiyy.com##.activityPop
+bayiyy.com##.new-discounts
+wo23.com##.Adinfo
+2020tv.cn###j__s
+kankanwu.com##div.ui-sponsor:nth-of-type(4)
+kankanwu.com##div.ui-sponsor:nth-of-type(1)
+kuaiyongwo.com##body > div:nth-of-type(1) > .container
+ttvdo.com##.video_tga
+hanjutv.com##.widget-qianhuiji
+hanjutv.com###widget-weixin
+hanjutv.com##.main-inner > div:nth-of-type(6)
+hanjutv.com##.main-inner > div:nth-of-type(3)
+hanjutv.com##div.mt20.mod-inner:nth-of-type(2)
+hanjutv.com##div.mt20.mod-inner:nth-of-type(5)
+97pd.com###guanggaotop
+imeiju.cc###by
+!特殊类网站广告过滤规则
+28rrbb.com###favCanvas
+520ziyuan.com##.hidden-xs
