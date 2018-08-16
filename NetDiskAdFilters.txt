@@ -2,13 +2,9 @@
 ! Title: NetDisk AdFilters
 ! Expires: 12 hours
 ! Version: 201808
-! Last Modified: 2018年06月24日 21:09
-! Homepage: 
+! Last Modified: 2018年08月17日 00:00
 !
-!本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”下载界面的各种广告
-
-
-!网赚网盘广告过滤规则
+!本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”网赚网盘下载界面的各种广告
 jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(6)
 jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
 jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:nth-child(8)
@@ -258,3 +254,6 @@ llpan.com##DIV.foot_box:nth-child(18)
 567pan.com##DIV.body_top:nth-child(2) > DIV.l:first-child
 567pan.com##DIV.head_box:nth-child(3)
 567pan.com###breadcrumbs
+doufile.com##.r336
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:nth-child(10)
+doufile.com##.ad468
