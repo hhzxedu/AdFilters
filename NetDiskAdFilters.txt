@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: NetDisk AdFilters
 ! Expires: 12 hours
-! Version: 201806242109
+! Version: 201808
 ! Last Modified: 2018年06月24日 21:09
-! Homepage: http://www.qiuquan.cc/
+! Homepage: 
 !
 !本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”下载界面的各种广告
 
@@ -150,28 +150,17 @@ yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-chi
 yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner > DIV.container-fluid:last-child
 yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner
 yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(4)
-678pan.org###breadcrumbs > UL.breadcrumb:first-child > LI:last-child > A:last-child
-678pan.org###page-content > DIV.page-header.position-relative:first-child > A:nth-child(2) > IMG
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9 > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(3) > TABLE.table.table-bordered.table-striped
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(4) > A.btn.btn-danger.btn-block.STYLE1
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
-678pan.org###footer > DIV.text-right:first-child > DIV
-678pan.org###footer > DIV.text-right:last-child > DIV
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-678pan.org###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:last-child > A.btn.btn-danger.btn-block
-678pan.org###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
-678pan.org###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
-678pan.org###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
-678pan.org###main-content > DIV:nth-child(4)
-678pan.org###main-content > DIV.bottom-hint:last-child
-678pan.org###nav-search-input
-678pan.org###footer
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child
-678pan.org###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child > A > SPAN
-678pan.org##DIV.navbar.navbar-inverse:nth-child(4)
+678pan.vip##.btn.btn-danger.btn-block.STYLE1
+678pan.vip##.table.table-bordered.table-striped
+678pan.vip###footer
+678pan.vip##.btn.btn-danger.btn-block
+678pan.vip###main-content > DIV:nth-child(4) > DIV:first-child
+678pan.vip##.widget-header.widget-header-flat
+678pan.vip##.pull-right
+678pan.vip##.bottom-hint
+678pan.vip###main-content > DIV:nth-child(4)
+678pan.vip##[href="http://www.678pan.com/vip.php"]
+678pan.vip##.widget-body-inner > div:nth-of-type(1) > div:nth-of-type(3)
 llpan.com##DIV:nth-child(15) > IFRAME:last-child
 llpan.com##DIV:nth-child(16) > IFRAME:last-child
 llpan.com###c62500
