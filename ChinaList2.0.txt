@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180720000
-! Title:  ChinaListV2.0[20180720000]
-! Last modified: 2018/07/20 16:53:38 +0800
+! Version: 20180816000
+! Title:  ChinaListV2.0[20180816000]
+! Last modified: 2018/08/16 00:55:17 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -3540,7 +3540,7 @@ mg*.6park.com/img/$image
 ||aspku.com/z/
 ||astrill.com/bnrs/
 ||atiws.aipai.com^
-||atm.youku.com^
+||atm.youku.com^$domain=~v.youku.com
 ||atool.org/res/ads/
 ||att.ydss.cn/attachments/portal/
 ||auto-online.com.tw/vendor_data/
@@ -3967,7 +3967,6 @@ mg*.6park.com/img/$image
 ||chuiyao.com/static/jsa/
 ||chunxiao.tv/1.aspx
 ||chyangwa.net/block/bb/
-||cibntv.net/youku/*.mp4?
 ||cidianwang.com/images/taobao/
 ||cidianwang.com/js/zdtop.js
 ||ciliba.org/Public/static/js/common-v2.js
@@ -13446,11 +13445,18 @@ bbs.ydss.cn##.bm.bml.pbn
 finance.sina.com.cn##.side-ad-20150402
 */sohu/v1/*$redirect=http://v.huya.com/jsapi/getliverelate?channel=
 @@||data.vod.itc.cn^$domain=bilibili.com,third-party
-youku/*/*.mp4*&ctype=50
 youku.com##.h5-ext-layer-adsdk
 youku.com##.oppo-ads
 @@/^http://val[b-z]\.atm\.youku\.com/$domain=v.youku.com
 ||crypto-loot.com^$third-party
+#$#*{font-family: "Microsoft Yahei";}
+hupu.com#$#.titlelink.box a{font-size: 120%;}
+/sspPic.html?ad_ids=$third-party
+||tianqi.com/static/banner/data_tuiguang.js$domain=tianqi.com
+*$third-party,script,domain=zhainanbt.org
+sinaimg.cn/large/*.gif$domain=zhainanbt.org
+||data.waptime.cn^$domain=tianqi.com,third-party
+||vd.l.qq.com/proxyhttp$domain=v.qq.com
 @@||l.qq.com/livemsg
 @@||l.qq.com/crossdomain.xml
 @@sportsts.tc.qq.com
