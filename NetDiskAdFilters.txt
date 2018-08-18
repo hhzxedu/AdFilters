@@ -146,17 +146,28 @@ yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-chi
 yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner > DIV.container-fluid:last-child
 yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner
 yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(4)
-678pan.vip##.btn.btn-danger.btn-block.STYLE1
-678pan.vip##.table.table-bordered.table-striped
-678pan.vip###footer
-678pan.vip##.btn.btn-danger.btn-block
-678pan.vip###main-content > DIV:nth-child(4) > DIV:first-child
-678pan.vip##.widget-header.widget-header-flat
-678pan.vip##.pull-right
-678pan.vip##.bottom-hint
+678pan.vip###breadcrumbs > UL.breadcrumb:first-child > LI:last-child > A:last-child
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > A:nth-child(2) > IMG
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9 > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(3) > TABLE.table.table-bordered.table-striped
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(4) > A.btn.btn-danger.btn-block.STYLE1
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
+678pan.vip###footer > DIV.text-right:first-child > DIV
+678pan.vip###footer > DIV.text-right:last-child > DIV
+678pan.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+678pan.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+678pan.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+678pan.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:last-child > A.btn.btn-danger.btn-block
+678pan.vip###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+678pan.vip###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+678pan.vip###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
 678pan.vip###main-content > DIV:nth-child(4)
-678pan.vip##[href="http://www.678pan.com/vip.php"]
-678pan.vip##.widget-body-inner > div:nth-of-type(1) > div:nth-of-type(3)
+678pan.vip###main-content > DIV.bottom-hint:last-child
+678pan.vip###nav-search-input
+678pan.vip###footer
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child
+678pan.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child > A > SPAN
+678pan.vip##DIV.navbar.navbar-inverse:nth-child(4)
 llpan.com##DIV:nth-child(15) > IFRAME:last-child
 llpan.com##DIV:nth-child(16) > IFRAME:last-child
 llpan.com###c62500
@@ -254,6 +265,27 @@ llpan.com##DIV.foot_box:nth-child(18)
 567pan.com##DIV.body_top:nth-child(2) > DIV.l:first-child
 567pan.com##DIV.head_box:nth-child(3)
 567pan.com###breadcrumbs
-doufile.com##.r336
+doufile.com###aswift_0
+doufile.com###aswift_0_anchor
+doufile.com###aswift_0_expand
+doufile.com##DIV.ad970:nth-child(3) > INS.adsbygoogle:nth-child(3)
+doufile.com##DIV.content:nth-child(4) > DIV.r336:last-child
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV.ad468:nth-child(4)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.vip1:nth-child(2)
 doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:nth-child(10)
-doufile.com##.ad468
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV.ad468:last-child
+doufile.com##DIV.ad970:nth-child(4) > A > IMG
+doufile.com##DIV.content:nth-child(5) > DIV.r336:last-child
+doufile.com##DIV.content:nth-child(5) > DIV.l624:first-child > SPAN:nth-child(2) > DIV.ad468:last-child
+doufile.com##DIV.content:nth-child(5) > DIV.l624:first-child > DIV.downqu:nth-child(4)
+doufile.com##DIV.ad970:nth-child(7) > INS.adsbygoogle:nth-child(3)
+doufile.com##FOOTER.group:nth-child(9)
+doufile.com###down_link > A:last-child
+doufile.com##FOOTER.group:nth-child(7)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free4:nth-child(2)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > IMG:nth-child(2)
+doufile.com###free6
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:first-child
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:last-child
+doufile.com##DIV.header:nth-child(2) > DIV.head > UL:nth-child(2)
+doufile.com##DIV.header:nth-child(2) > DIV.head > A:first-child > DIV.logo
