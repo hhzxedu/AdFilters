@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180816000
-! Title:  ChinaListV2.0[20180816000]
-! Last modified: 2018/08/16 00:55:17 +0800
+! Version: 20180818001
+! Title:  ChinaListV2.0[20180818001]
+! Last modified: 2018/08/18 11:06:36 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -13443,13 +13443,13 @@ bbs.ydss.cn##.bm.bml.pbn
 @@||xueshu.baidu.com$elemhide
 @@||www.weiyun.com$elemhide
 finance.sina.com.cn##.side-ad-20150402
-*/sohu/v1/*$redirect=http://v.huya.com/jsapi/getliverelate?channel=
 @@||data.vod.itc.cn^$domain=bilibili.com,third-party
 youku.com##.h5-ext-layer-adsdk
 youku.com##.oppo-ads
 @@/^http://val[b-z]\.atm\.youku\.com/$domain=v.youku.com
 ||crypto-loot.com^$third-party
-#$#*{font-family: "Microsoft Yahei";}
+@@||ratewrite.tmall.com^
+hupu.com#$#*{font-family: "Microsoft Yahei";}
 hupu.com#$#.titlelink.box a{font-size: 120%;}
 /sspPic.html?ad_ids=$third-party
 ||tianqi.com/static/banner/data_tuiguang.js$domain=tianqi.com
@@ -13496,7 +13496,7 @@ mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###recommend
 ||bu1.duba.com^$third-party
 ||cir.baidu.com^$third-party
-163.com##div>span:contains(å¹¿å‘Š)
+163.com##div>span:contains(?1??‘?)
 ||www.w3397.com/style2017/js/*
 ||www.w3397.com/e/public/onclick/?enews=donews&id=*
 ||module.youku.com/
@@ -13505,7 +13505,7 @@ youku.com#%#window.YIout=window.setInterval(function(){"v.youku.com"!=window.loc
 ||sdkcdn.videojj.com/upload_img/*.jpeg
 https://web.da.mgtv.com/pc/player$redirect=http://v.huya.com/jsapi/getliverelate?channel=
 @@||web.da.mgtv.com/crossdomain.xml$domain=mgtv.com
-search.jd.com##.gl-item:contains(å¹¿å‘Š)
+search.jd.com##.gl-item:contains(?1??‘?)
 *$domain=btdigg.cc|kikibt.co|cililianbt.com,third-party
 @@||static.mediav.com/js/mvf_wheel_min_plugin.js$domain=v.360kan.com,third-party
 @@||vku.youku.com^
