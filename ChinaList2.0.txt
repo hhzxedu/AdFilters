@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180818001
-! Title:  ChinaListV2.0[20180818001]
-! Last modified: 2018/08/18 11:06:36 +0800
+! Version: 20180822000
+! Title:  ChinaListV2.0[20180822000]
+! Last modified: 2018/08/22 08:21:10 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -13496,16 +13496,16 @@ mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###recommend
 ||bu1.duba.com^$third-party
 ||cir.baidu.com^$third-party
-163.com##div>span:contains(?1??‘?)
+163.com##div>span:contains(å¹¿å‘Š)
 ||www.w3397.com/style2017/js/*
 ||www.w3397.com/e/public/onclick/?enews=donews&id=*
 ||module.youku.com/
 ||tip.soku.com/searches/soku/kubox/v4/sideads.json?
-youku.com#%#window.YIout=window.setInterval(function(){"v.youku.com"!=window.location.host&&window.clearInterval(window.YIout);"adplaying"==window.H5player.adInfo._state&&(window.H5player.adInfo.skip(),window.clearInterval(window.YIout));"adended"==window.H5player.adInfo._state&&window.clearInterval(window.YIout)},100);
+youku.com#%#window.YIout=window.setInterval(function(){if("v.youku.com"!=window.location.host){window.clearInterval(window.YIout);return}if(window.H5player.adInfo._state){window.clearInterval(window.YIout);window.H5player.adInfo.skip();Object.defineProperty(window.H5player.adInfo,'_state',{get:function(){return _state},set:function(newValue){if("adplaying"==newValue){window.H5player.adInfo.skip()}_state=newValue}})}},100);
 ||sdkcdn.videojj.com/upload_img/*.jpeg
 https://web.da.mgtv.com/pc/player$redirect=http://v.huya.com/jsapi/getliverelate?channel=
 @@||web.da.mgtv.com/crossdomain.xml$domain=mgtv.com
-search.jd.com##.gl-item:contains(?1??‘?)
+search.jd.com##.gl-item:contains(å¹¿å‘Š)
 *$domain=btdigg.cc|kikibt.co|cililianbt.com,third-party
 @@||static.mediav.com/js/mvf_wheel_min_plugin.js$domain=v.360kan.com,third-party
 @@||vku.youku.com^
