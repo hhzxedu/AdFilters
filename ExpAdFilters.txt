@@ -46,6 +46,7 @@ v.pptv.com##.download-btn
 v.pptv.com###afp_202509
 bbs.zhiyoo.com###ct > .wp
 bilibili.com###fixed_app_download
+www.repaik.com###xianliaome_banner
 !特殊类网站广告过滤规则
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
