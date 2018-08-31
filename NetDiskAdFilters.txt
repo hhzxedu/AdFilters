@@ -1,10 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: NetDisk AdFilters
 ! Expires: 12 hours
-! Version: 201808
-! Last Modified: 2018年08月17日 00:00
-!
-!本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”网赚网盘下载界面的各种广告
+! Version: 201809
+! Last Modified: 2018年09月01日 00:00
+!本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”、“乱斗网盘”、“彩虹云网盘”下载界面的各种广告
 jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(6)
 jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
 jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:nth-child(8)
@@ -289,3 +288,58 @@ doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) 
 doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:last-child
 doufile.com##DIV.header:nth-child(2) > DIV.head > UL:nth-child(2)
 doufile.com##DIV.header:nth-child(2) > DIV.head > A:first-child > DIV.logo
+doufile.com##DIV.ad970:nth-child(3) > A > IMG
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(5) > DIV.vip1:nth-child(2)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:last-child
+doufile.com###wait_div
+|http://www.ccchoo.*/down-$s@var secs = *;@var secs = 0;@
+|http://www.ccchoo.*/down$s@href=\"down2-@href=\"down-@
+|http://www.ccchoo.*/down$s@var paypopupURL=@@
+ccchoo.com##DIV.foot_box:nth-child(13)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix:first-child
+ccchoo.com###ann_list > UL > A > IMG
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3) > LI.col-md-3.col-sm-6.col-xs-12:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3) > LI.col-md-3.col-sm-6.col-xs-12:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3) > LI.col-md-3.col-sm-6.col-xs-12:nth-child(3)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(2) > SPAN
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(4) > SPAN
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main:first-child > UL.clearfix:nth-child(2) > LI.left:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main:first-child > UL.clearfix:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main.down_five_rt:last-child > UL.clearfix:nth-child(2) > LI.left:nth-child(5)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main.down_five_rt:last-child > UL.clearfix:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(6) > SPAN
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(6)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix:last-child > DIV.col-md-6.col-sm-6.col-xs-12:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix:last-child > DIV.col-md-6.col-sm-6.col-xs-12:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.foot_box:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_one.clearfix:nth-child(2) > DIV.col-md-8.col-sm-7.col-xs-12.down_one_lf:first-child > P:last-child > SPAN.bc:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_one.clearfix:nth-child(2) > DIV.col-md-8.col-sm-7.col-xs-12.down_one_lf:first-child > P:last-child > SPAN.bc:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_one.clearfix:nth-child(2) > DIV.col-md-8.col-sm-7.col-xs-12.down_one_lf:first-child > P:last-child > SPAN.bc:nth-child(3)
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.dl_by:first-child > DIV.ksk > CENTER:first-child
+ccchoo.com###bdshare
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.dl_by:first-child > DIV.ksk > DIV.y-box:nth-child(3)
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.dl_by:first-child > DIV.ksk > DIV.bottom-hint:last-child
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.foot_box:last-child
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.lo_box.box_shadow:nth-child(6)
+ccchoo.com###aswift_0
+ccchoo.com###aswift_0_anchor
+ccchoo.com###aswift_0_expand
+ccchoo.com##DIV.container:nth-child(9) > INS.adsbygoogle:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > CENTER:nth-child(6)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.ksk:first-child > DIV > DIV.y-box:nth-child(4) > DIV.q-box:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.ksk:first-child > DIV > DIV.bottom-hint:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.foot_box:last-child > DIV.footer
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.foot_box:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.lo_box.box_shadow:nth-child(7)
+ccchoo.com###aswift_1
+ccchoo.com###aswift_1_anchor
+ccchoo.com###aswift_1_expand
+ccchoo.com###addr_list1 > A.bc:first-child
+ccchoo.com###addr_list1 > A.bc:nth-child(2)
+ccchoo.com###addr_list1 > A.bc:nth-child(3)
+ccchoo.com###addr_list1 > A.bc:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.ksk:first-child > DIV > DIV.b-box:nth-child(2) > INS.adsbygoogle:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > DIV.lo_box.box_shadow:nth-child(7)
