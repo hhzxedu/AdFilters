@@ -41,10 +41,14 @@ hanjutv.com##div.mt20.mod-inner:nth-of-type(2)
 hanjutv.com##div.mt20.mod-inner:nth-of-type(5)
 97pd.com###guanggaotop
 imeiju.cc###by
+imeiju.cc###hg
 iqiyi.com###j_pca_pc
 v.pptv.com##.download-btn
 v.pptv.com###afp_202509
 bbs.zhiyoo.com###ct > .wp
+bbs.zhiyoo.com##.boxtitle
+bbs.zhiyoo.com##.boxinfo
+v.qq.com##.mod_ad
 bilibili.com###fixed_app_download
 repaik.com###xianliaome_banner
 iqiyi.com##div:nth-of-type(2) > .cupid-public-time
@@ -54,3 +58,4 @@ iqiyi.com##.pw-video > div:nth-of-type(2)
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
 ||www.ssfx1.com/Tpl/custom/style/images/pauseAds.png
+modulepush.com/*/invoke.js
