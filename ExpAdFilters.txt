@@ -54,6 +54,14 @@ repaik.com###xianliaome_banner
 iqiyi.com##div:nth-of-type(2) > .cupid-public-time
 iqiyi.com##.bottom-public
 iqiyi.com##.pw-video > div:nth-of-type(2)
+bingdian001.com###j__s > IFRAME:last-child
+||bingdian001.com/upload/software/ad.jpg$domain=bingdian001.com
+apkpure.com###policy-info
+apkpure.com##.ad-right-600
+apkpure.com##.aegon-warp
+apkpure.com##DIV.main.page-q:nth-child(5) > DIV.left:first-child > DIV:nth-child(3)
+v.youku.com##.ad-flag-wrap
+v.youku.com###s_h_3014509 > DIV > A:first-child > IMG
 !特殊类网站广告过滤规则
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
