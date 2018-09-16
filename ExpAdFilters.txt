@@ -62,8 +62,28 @@ apkpure.com##.aegon-warp
 apkpure.com##DIV.main.page-q:nth-child(5) > DIV.left:first-child > DIV:nth-child(3)
 v.youku.com##.ad-flag-wrap
 v.youku.com###s_h_3014509 > DIV > A:first-child > IMG
+pan115.com###ad
+douyu.com##.firstpay-modal
+douyu.com###js-room-guess-panel
+douyu.com##.anchor-dynamic
+douyu.com###js-stats-and-actions
+douyu.com##.normalDiv-a41143
+douyu.com##.no-login
+douyu.com##.sq-wrap
 !特殊类网站广告过滤规则
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
 ||www.ssfx1.com/Tpl/custom/style/images/pauseAds.png
 modulepush.com/*/invoke.js
+dyw46.com/template/paody/aaaa/hg1.js
+pao898.com/template/avv1/ads/980.js
+692506.com/tu/*.gif
+dyw16.com/images/*.gif
+903397.com/tu/*.gif
+183105.com/tu/*.gif
+183105.com/*.gif
+119.29.80.185/*.gif
+cao2018zy.xyz##DIV.hidden-xs:nth-child(16) > A > IMG
+cao2018zy.xyz##DIV.nav:nth-child(7) > DIV.width1200 > DIV.hidden-xs:nth-child(5) > A > IMG
+szjytx.com##DIV.wide:nth-child(4) > DIV.gg-box.mb15:first-child > A > IMG
+szjytx.com##DIV.wide:nth-child(4) > DIV.row:last-child > DIV.col-16.col-m-24:first-child > DIV.gg-box.mb15:first-child > A > IMG
