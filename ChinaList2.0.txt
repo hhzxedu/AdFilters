@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180909000
-! Title:  ChinaListV2.0[20180909000]
-! Last modified: 2018/09/09 22:41:34 +0800
+! Version: 20180919000
+! Title:  ChinaListV2.0[20180919000]
+! Last modified: 2018/09/19 21:36:59 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -4835,7 +4835,6 @@ mg*.6park.com/img/$image
 ||ifengimg.com/a/*/openclient.js
 ||ifengimg.com/a/*/yemei
 ||ifengimg.com/a/*_w300_h250.
-||ifengimg.com/a/201*.swf
 ||ifengimg.com/a/2016/*600.
 ||ifengimg.com/a/2017/*600.
 ||ifengimg.com/a/c.js
