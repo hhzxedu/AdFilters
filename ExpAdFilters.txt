@@ -7,6 +7,9 @@
 !通用广告过滤规则
 !畅言广告
 ###feedAv
+!BT站顶栏广告
+/ads/*.*
+/slade*.js
 !弹出式广告
 ###layui-layer1
 ###layui-layer-shade1
