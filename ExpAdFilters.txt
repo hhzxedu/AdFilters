@@ -14,14 +14,13 @@
 ###layui-layer1
 ###layui-layer-shade1
 !指定域名广告过滤规则
-||www.1993s.top/mads.js
-||push-notifications.top/fpp.js
+1993s.top/mads.js
+push-notifications.top/fpp.js
 v.pptv.com###video-download-game
 v.pptv.com###second-afp
+v.pptv.com##.download-btn
+v.pptv.com###afp_202509
 bbs.eastsea.com.cn##.toptb_wy
-fuliba.net##div.widget_custom_html.widget.widget_text:nth-of-type(2) > .custom-html-widget.textwidget
-fuliba.net##.widget_ui_textasb.widget
-fuliba.net###focusslide
 halihali.cc##.tuiguang
 kuhuiv.com##.teleplay-type
 bayiyy.com##.activityPop-bg
@@ -43,11 +42,7 @@ hanjutv.com##div.mt20.mod-inner:nth-of-type(5)
 imeiju.cc###by
 imeiju.cc###hg
 iqiyi.com###j_pca_pc
-v.pptv.com##.download-btn
-v.pptv.com###afp_202509
-bbs.zhiyoo.com###ct > .wp
-bbs.zhiyoo.com##.boxtitle
-bbs.zhiyoo.com##.boxinfo
+iqiyi.com##.detail-sd
 v.qq.com##.mod_ad
 bilibili.com###fixed_app_download
 repaik.com###xianliaome_banner
@@ -55,7 +50,7 @@ iqiyi.com##div:nth-of-type(2) > .cupid-public-time
 iqiyi.com##.bottom-public
 iqiyi.com##.pw-video > div:nth-of-type(2)
 bingdian001.com###j__s > IFRAME:last-child
-||bingdian001.com/upload/software/ad.jpg$domain=bingdian001.com
+bingdian001.com/upload/software/ad.jpg
 apkpure.com###policy-info
 apkpure.com##.ad-right-600
 apkpure.com##.aegon-warp
@@ -70,7 +65,11 @@ douyu.com###js-stats-and-actions
 douyu.com##.normalDiv-a41143
 douyu.com##.no-login
 douyu.com##.sq-wrap
+bbs.zhiyoo.com##.boxtitle
+bbs.zhiyoo.com##.boxinfo
+bbs.zhiyoo.com###ct > .wp
 !特殊类网站广告过滤规则
+fuliba.net##.textwidget.custom-html-widget
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
 ||www.ssfx1.com/Tpl/custom/style/images/pauseAds.png
