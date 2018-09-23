@@ -71,6 +71,11 @@ bbs.zhiyoo.com###ct > .wp
 !特殊类网站广告过滤规则
 fuliba.net##.textwidget.custom-html-widget
 fuliba.net###focusslide
+fuliba.net##.style02
+fuliba.net###focusslide
+fuliba.net###menu-item-25907 > A
+fuliba.net###menu-item-45416 > A
+fuliba.net###menu-item-51096 > A
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
 ||www.ssfx1.com/Tpl/custom/style/images/pauseAds.png
