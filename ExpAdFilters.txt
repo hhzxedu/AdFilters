@@ -70,6 +70,7 @@ bbs.zhiyoo.com##.boxinfo
 bbs.zhiyoo.com###ct > .wp
 !特殊类网站广告过滤规则
 fuliba.net##.textwidget.custom-html-widget
+fuliba.net###focusslide
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
 ||www.ssfx1.com/Tpl/custom/style/images/pauseAds.png
