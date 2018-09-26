@@ -68,6 +68,10 @@ douyu.com##.sq-wrap
 bbs.zhiyoo.com##.boxtitle
 bbs.zhiyoo.com##.boxinfo
 bbs.zhiyoo.com###ct > .wp
+m.zhangyue.com##.aladdin_top_new
+m.zhangyue.com##.aladdin_bot_new
+m.zhangyue.com##.aladdin_pl_c
+m.zhangyue.com##.aladdin_wx
 !特殊类网站广告过滤规则
 fuliba.net##.textwidget.custom-html-widget
 fuliba.net###focusslide
@@ -78,7 +82,7 @@ fuliba.net###menu-item-45416 > A
 fuliba.net###menu-item-51096 > A
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
-||www.ssfx1.com/Tpl/custom/style/images/pauseAds.png
+ssfx1.com/Tpl/custom/style/images/pauseAds.png
 modulepush.com/*/invoke.js
 dyw46.com/template/paody/aaaa/hg1.js
 pao898.com/template/avv1/ads/980.js
