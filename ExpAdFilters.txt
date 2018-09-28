@@ -72,6 +72,11 @@ m.zhangyue.com##.aladdin_top_new
 m.zhangyue.com##.aladdin_bot_new
 m.zhangyue.com##.aladdin_pl_c
 m.zhangyue.com##.aladdin_wx
+qiuquan.cc##.textwidget.widget-text
+qiuquan.cc##.widget-title
+qiuquan.cc##.widget.php_text.wow.fadeInUp
+imeiju.cc###qp
+imeiju.cc###abe > P > A > IMG
 !特殊类网站广告过滤规则
 fuliba.net##.textwidget.custom-html-widget
 fuliba.net###focusslide
