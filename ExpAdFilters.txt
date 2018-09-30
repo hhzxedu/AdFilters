@@ -81,6 +81,17 @@ pipipan.com##.row-fluid.text-center
 pipipan.com##.row-fluid
 pipipan.com###page-content > DIV.download-box.download-simple-box:nth-child(4) > UL > LI:last-child > A > IMG
 520boxtv.com##.box_hf
+520boxtv.com##.box_hf
+nz1.m1907.cn###root > div > div:nth-of-type(2)
+lalalo.com##.qr_code_pc
+lalalo.com##body > div:nth-of-type(1) > .container
+lalalo.com##body > div:nth-of-type(1) > div:nth-of-type(1)
+v977.com##font:nth-of-type(5)
+v977.com##font:nth-of-type(4)
+v977.com##font:nth-of-type(3)
+v977.com##font:nth-of-type(2)
+v977.com##div#hongbao:nth-of-type(2)
+v977.com##div#hongbao:nth-of-type(1)
 wuzuowei.net##DIV.widget.widget_ui_textasb
 !特殊类网站广告过滤规则
 fuliba.net##.textwidget.custom-html-widget
