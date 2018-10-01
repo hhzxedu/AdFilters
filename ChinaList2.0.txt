@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20180928000
-! Title:  ChinaListV2.0[20180928000]
-! Last modified: 2018/09/28 12:27:38 +0800
+! Version: 20181001000
+! Title:  ChinaListV2.0[20181001000]
+! Last modified: 2018/10/01 16:48:24 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -13054,7 +13054,6 @@ ifeng.com##[data-cl]
 ifeng.com##[id^="dl"]
 ifeng.com##[id^="mobile_gg"]
 ifeng.com##[iscl]
-ifeng.com##[style*="position"][style*="fixed"]
 ifeng.com##a[href*=".deliver."][style*="block"]
 ~g.ifeng.com,ifeng.com##a[href*="/g.ifeng."]
 ifeng.com,~imall.ifeng.com##a[href*="imall.ifeng."]
