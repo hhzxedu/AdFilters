@@ -121,7 +121,5 @@ dyw16.com/images/*.gif
 183105.com/tu/*.gif
 183105.com/*.gif
 119.29.80.185/*.gif
-cao2018zy.xyz##DIV.hidden-xs:nth-child(16) > A > IMG
-cao2018zy.xyz##DIV.nav:nth-child(7) > DIV.width1200 > DIV.hidden-xs:nth-child(5) > A > IMG
-szjytx.com##DIV.wide:nth-child(4) > DIV.gg-box.mb15:first-child > A > IMG
-szjytx.com##DIV.wide:nth-child(4) > DIV.row:last-child > DIV.col-16.col-m-24:first-child > DIV.gg-box.mb15:first-child > A > IMG
+cao2018zy.xyz##.hidden-xs
+szjytx.com##.gg-box.mb15
