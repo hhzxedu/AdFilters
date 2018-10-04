@@ -10,11 +10,11 @@
 !BT站顶栏广告
 /ads/*
 /slade*.js
+/mads.js
 !弹出式广告
 ###layui-layer1
 ###layui-layer-shade1
 !指定域名广告过滤规则
-1993s.top/mads.js
 push-notifications.top/fpp.js
 v.pptv.com###video-download-game
 v.pptv.com###second-afp
