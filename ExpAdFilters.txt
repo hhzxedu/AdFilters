@@ -111,6 +111,7 @@ xvideos.com##.ic
 xvideos.com###ad-tower
 xvideos.com###video-ad
 /1.gif$domain=xhgszy.com
+*zy.xyz##body > center
 *rrbb.com###favCanvas
 dyw16.com/images/*.gif
 692506.com/tu/*.gif
