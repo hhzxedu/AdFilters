@@ -110,12 +110,12 @@ xvideos.com##.remove-ads
 xvideos.com##.ic
 xvideos.com###ad-tower
 xvideos.com###video-ad
-rrxx.com###favCanvas
-rrxx.com##.videopic
-rrxx.com###lunbo1
-rrxx.com/home/js/ad.js
-rrxx.com/banner_list.js
-rrxx.com/home.js
+30rrxx.com###favCanvas
+30rrxx.com##.videopic
+30rrxx.com###lunbo1
+30rrxx.com/home/js/ad.js
+30rrxx.com/banner_list.js
+30rrxx.com/home.js
 /1.gif$domain=xhgszy.com
 zy.xyz##body > center
 dyw16.com/images/*.gif
