@@ -110,7 +110,9 @@ xvideos.com##.remove-ads
 xvideos.com##.ic
 xvideos.com###ad-tower
 xvideos.com###video-ad
-rrxx.com/home/js/shareNative_ec.js
+rrxx.com###favCanvas
+rrxx.com##.videopic
+rrxx.com###lunbo1
 rrxx.com/home/js/ad.js
 rrxx.com/banner_list.js
 rrxx.com/home.js
