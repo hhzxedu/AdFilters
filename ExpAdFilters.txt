@@ -110,10 +110,14 @@ xvideos.com##.remove-ads
 xvideos.com##.ic
 xvideos.com###ad-tower
 xvideos.com###video-ad
+rrxx.com/home/js/shareNative_ec.js
+rrxx.com/home/js/ad.js
+rrxx.com/banner_list.js
+rrxx.com/home.js
 /1.gif$domain=xhgszy.com
-*zy.xyz##body > center
-*rrbb.com###favCanvas
+zy.xyz##body > center
 dyw16.com/images/*.gif
+dyw46.com/template/paody/aaaa/hg1.js
 692506.com/tu/*.gif
 903397.com/tu/*.gif
 183105.com/tu/*.gif
