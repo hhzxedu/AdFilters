@@ -101,6 +101,13 @@ fuliba.net###focusslide
 fuliba.net###menu-item-25907 > A
 fuliba.net###menu-item-45416 > A
 fuliba.net###menu-item-51096 > A
+xvideos.com###ad-tower-div
+xvideos.com###ad-footer
+xvideos.com##.x-message.x-message-info
+xvideos.com##.remove-ads
+xvideos.com##.ic
+xvideos.com###ad-tower
+xvideos.com###video-ad
 /1.gif$domain=xhgszy.com
 28rrbb.com###favCanvas
 520ziyuan.com##.hidden-xs
