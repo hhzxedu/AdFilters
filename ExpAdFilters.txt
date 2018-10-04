@@ -117,6 +117,8 @@ rrxx.com/home.js
 /1.gif$domain=xhgszy.com
 zy.xyz##body > center
 dyw16.com/images/*.gif
+dyw16.com##.notice
+dyw16.com##.hidden-xs
 119.29.80.185/*.gif
 dyw46.com/template/paody/aaaa/hg1.js
 692506.com/tu/*.gif
