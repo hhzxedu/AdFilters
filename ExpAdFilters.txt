@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ExpAdFilters
-! Expires: 12 hours
-! Version: 201808
-! Last Modified: 2018年08月17日 00:00
+! Expires: 24 hours
+! Version: 201810
+! Last Modified: 2018年10月05日 00:00
 !
 !通用广告过滤规则
 !畅言广告
